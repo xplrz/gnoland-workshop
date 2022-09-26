@@ -20,4 +20,8 @@ RUN mkdir /app/gno/examples/gno.land/p/hello
  
 RUN ln -s 01-hello-package/p/hello/hello.gno /app/gno/examples/gno.land/p/hello/hello.gno
 
+RUN adduser --disabled-password -S gno
+
+RUN echo 'gno ALL=(ALL) ALL' > /etc/sudoers
+
 USER gno
