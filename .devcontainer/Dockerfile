@@ -1,4 +1,4 @@
-FROM golang:1.18-alpine AS builder
+FROM golang:1.18-alpine
 
 WORKDIR /app
 
@@ -14,12 +14,10 @@ WORKDIR /app
 
 RUN git clone https://github.com/xplrz/gnoland-workshop.git workshop
 
-FROM golang:1.18-alpine AS runner
+RUN ln -s /app/gno/build/gnodev /bin/gnodev
 
-WORKDIR /app
+RUN mkdir /app/gno/examples/gno.land/p/hello
+ 
+RUN ln -s 01-hello-package/p/hello/hello.gno /app/gno/examples/gno.land/p/hello/hello.gno
 
-COPY --from=builder /app/gno/build /app/tools
-
-COPY --from=builder /app/workshop /app/workshop
-
-
+USER gno
