@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
  <img src="/.github/banner.png" alt="Gnoland" />
- <p align="center">HELLO GNOLAND</p>
- <a href="https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=541250916"><img src="https://github.com/codespaces/badge.svg" alt="Launch in CodeSpace" /></a>
- </p>
+ <h2 align="center">HELLO GNOLAND</h2>
+ <a href="https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=541250916"><img src="https://github.com/codespaces/badge.svg" alt="Launch in CodeSpace" align="center" /></a>
+ </div>
 
 
