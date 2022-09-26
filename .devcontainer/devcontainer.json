@@ -12,7 +12,7 @@
   },
 
   "extensions": [
-    ""
+    "cschleiden/vscode-github-actions"
   ],
   "remoteUser": "gnome"
 }
