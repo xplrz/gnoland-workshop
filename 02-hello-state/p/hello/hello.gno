@@ -1,5 +1,1 @@
-package hello
-
-func World(x string) string {
-	return "hello " + x + ", w3lc0m3 t0 gn0!"
-}
+../../../01-hello-package/p/hello/hello.gno
