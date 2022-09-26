@@ -20,6 +20,6 @@ WORKDIR /app
 
 COPY --from=builder /app/gno/build /app/tools
 
-COPY --from=builder /app/gno/workshop /app/workshop
+COPY --from=builder /app/workshop /app/workshop
 
 
