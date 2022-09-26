@@ -3,9 +3,9 @@
  <h3 align="center">HELLO GNOLAND</h3>
 </div>
 
-Say hello to gno features with this workshop, and start writing your own realms!
+Say hello to gno features with this workshop, and start writing your own Realms! You can check the [What is Gno?](https://gnoland.space/docs/what-is-gno) documentation for an introduction to the project. 
 
-Your goal for each step is to complete the missing code (specified by a `// TODO` comment) and make the unit tests succeed!
+Your goal for each step is to complete the missing code (specified by a `// TODO` comment) and make the unit tests succeed.
 
 We recommend using GitHub codespaces, which is already configured with gno tools:
 
