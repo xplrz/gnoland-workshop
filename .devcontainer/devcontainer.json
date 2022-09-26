@@ -1,11 +1,14 @@
 {
   "name": "Gno",
   "build": {
-    "dockerfile": "Dockerfile",
+    "dockerfile": "Dockerfile"
   },
 
   "settings": {
-    "terminal.integrated.shell.linux": "/bin/ash"
+    "terminal.integrated.shell.linux": "/bin/ash",
+    "files.associations": {
+        "*.gno": "golang"
+    }
   },
 
   "extensions": [
