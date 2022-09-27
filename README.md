@@ -16,8 +16,8 @@ Cosmoverse 2022 builders, [make feedbacks to the team](https://github.com/xplrz/
 
 <br />
 
-Install locally: https://test2.gno.land/r/boards:testboard/5
-
+<details>
+<summary>Install the workshop locally</summary>
 ```
 git clone https://github.com/gnolang/gno
 cd ./gno
@@ -31,6 +31,7 @@ cd gnoland-workshop
 # to test use `gnodev test r/solve  --verbose --root-dir ../../gno`
 # at the root of each challenge
 ```
+ </details>
 
 <div align="center">
  <a href="https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=541250916"><img src="https://github.com/codespaces/badge.svg" alt="Launch in CodeSpace" align="center" /></a>
