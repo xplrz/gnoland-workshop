@@ -5,17 +5,17 @@ import (
 )
 
 func TestWelcome(t *testing.T) {
-	expected := "# Welcome\n"
-	got := Render("")
+	expected := "# Welcome"
+	got := Render("") // /r/solve
 	if got != expected {
 		t.Errorf("\nExpected %s \nGot %s", expected, got)
 	}
 }
 
 func TestWelcomeUser(t *testing.T) {
-	expected := "# Welcome\nhello gnome, w3lc0m3 t0 gn0!\n"
-	got := Render("r/solve:gnome")
+	expected := "# hello gnome, w3lc0m3 t0 gn0!"
+	got := Render("gnome") // /r/solve:gnome
 	if got != expected {
-		t.Errorf("\nExpected %s \nGot %s", expected, got)
+		t.Errorf("Expected %q, got %q.", expected, got)
 	}
 }
