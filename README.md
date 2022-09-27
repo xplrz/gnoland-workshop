@@ -12,10 +12,6 @@ We recommend using GitHub codespaces, which is already configured with gno tools
 
 <br />
 
-Cosmoverse 2022 builders, [make feedbacks to the team](https://github.com/xplrz/gnoland-workshop/issues/3)!
-
-<br />
-
 <details>
 <summary>Install the workshop locally</summary>
 <br />
