@@ -2,6 +2,7 @@
  <img src="/.github/banner.png" alt="Gnoland" />
  <h3 align="center">HELLO GNOLAND!</h3>
 </div>
+<br />
 
 Say hello to gno features with this workshop, and start writing your own Realms! You can check the [What is Gno?](https://gnoland.space/docs/what-is-gno) documentation for an introduction to the project. 
 
