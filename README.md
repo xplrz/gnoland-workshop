@@ -16,6 +16,8 @@ Cosmoverse 2022 builders, [make feedbacks to the team](https://github.com/xplrz/
 
 <br />
 
+Install locally: https://test2.gno.land/r/boards:testboard/5
+
 <div align="center">
  <a href="https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=541250916"><img src="https://github.com/codespaces/badge.svg" alt="Launch in CodeSpace" align="center" /></a>
 </div>
