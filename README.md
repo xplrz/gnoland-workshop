@@ -19,7 +19,7 @@ Cosmoverse 2022 builders, [make feedbacks to the team](https://github.com/xplrz/
 Install locally: https://test2.gno.land/r/boards:testboard/5
 
 ```
-git clone git@github.com:gnolang/gno.git
+git clone https://github.com/gnolang/gno
 cd ./gno
 make install_gnodev
 
