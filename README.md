@@ -18,7 +18,8 @@ Cosmoverse 2022 builders, [make feedbacks to the team](https://github.com/xplrz/
 
 <details>
 <summary>Install the workshop locally</summary>
-```
+
+```sh
 git clone https://github.com/gnolang/gno
 cd ./gno
 make install_gnodev
