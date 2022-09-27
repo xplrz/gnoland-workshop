@@ -9,3 +9,4 @@ By convention, each realm can expose a `Render(path string) string` function to 
 
 In this challenge, you must write the Render function of the Solve realm to make the unit test in `solve_test.gno` succeed!
 
+Do not modify the tests.
