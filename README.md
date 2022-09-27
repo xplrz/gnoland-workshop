@@ -25,7 +25,7 @@ make install_gnodev
 
 cd ..
 git clone https://github.com/xplrz/gnoland-workshop
-cp -rf ./gnoland-workshop/01-hello-package/p/hello ./gno/examples/p
+cp -rf ./gnoland-workshop/01-hello-package/p/hello ./gno/examples/gno.land/p
 cd gnoland-workshop
 
 # to test use `gnodev test r/solve  --verbose --root-dir ../../gno`
