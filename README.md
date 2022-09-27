@@ -28,7 +28,8 @@ git clone git@github.com:xplrz/gnoland-workshop.git
 cp -rf ./gnoland-workshop/01-hello-package/p/hello ./gno/examples/p
 cd gnoland-workshop
 
-# to test use `gnodev test r/solve  --verbose --root-dir ../../gno` at the root of each challenge
+# to test use `gnodev test r/solve  --verbose --root-dir ../../gno`
+# at the root of each challenge
 ```
 
 <div align="center">
