@@ -9,4 +9,6 @@ By convention, each realm can expose a `Render(path string) string` function to 
 
 In this challenge, you must write the Render function of the Solve realm to make the unit test in `solve_test.gno` succeed!
 
+Use `gnodev test r/solve --verbose` to run the tests.
+
 Do not modify the tests.
