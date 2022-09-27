@@ -3,7 +3,7 @@
 </div>
 <br />
 
-There is two types of Gno applications on GnoLand: Packages and Realms.
+There are two types of Gno applications on GnoLand: Packages and Realms.
 
 - Realms are Smart Contracts which expose Render function and have their own state. Realms are imported from `gno.land/r/...`
 - Packages do not have Render function or state, they expose functions Realms can import and use. Packages are imported from `gno.land/p/...`
