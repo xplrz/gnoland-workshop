@@ -24,7 +24,7 @@ cd ./gno
 make install_gnodev
 
 cd ..
-git clone git@github.com:xplrz/gnoland-workshop.git
+git clone https://github.com/xplrz/gnoland-workshop
 cp -rf ./gnoland-workshop/01-hello-package/p/hello ./gno/examples/p
 cd gnoland-workshop
 
