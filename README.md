@@ -11,9 +11,9 @@ Your goal for each step is to complete the missing code (specified by a `// TODO
 We recommend using GitHub codespaces, which is already configured with gno tools:
 
 <br />
-
-<details>
-<summary>Install the workshop locally</summary>
+<div align="center">
+ <details align="left">
+<summary align="center">Install the workshop locally</summary>
 <br />
 
 ```sh
@@ -30,7 +30,6 @@ cd gnoland-workshop
 # at the root of each challenge
 ```
  </details>
-
-<div align="center">
+ <p>or</p>
  <a href="https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=541250916"><img src="https://github.com/codespaces/badge.svg" alt="Launch in CodeSpace" align="center" /></a>
 </div>
