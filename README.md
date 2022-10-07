@@ -1,6 +1,6 @@
 <div align="center">
  <img src="/.github/banner.png" alt="Gnoland" />
- <h3 align="center">HELLO GNOLAND!</h3>
+ <h3 align="center">HELLO GNO!</h3>
 </div>
 <br />
 
